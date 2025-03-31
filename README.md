@@ -1,4 +1,4 @@
   # Learning
   this is learning phase
   </br>
-   Author-Shivam kumar
+   Author-Shivam kumar thakur
